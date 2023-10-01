@@ -1,6 +1,8 @@
 #include <stdio.h>
+#include<math.h>
+#include<string.h>
 
-int main() {
+ main() {
   int a, b, c, triangulo;
 
   printf("Digite o valor de A\n");
