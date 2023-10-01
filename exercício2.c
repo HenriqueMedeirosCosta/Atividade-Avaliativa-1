@@ -1,6 +1,8 @@
 #include <stdio.h>
+#include<math.h>
+#include<string.h>
 
-int main() {
+ main() {
 float  c = 1.50, z = 1.10 ; 
    int ano=0;
    
