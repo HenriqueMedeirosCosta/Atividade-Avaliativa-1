@@ -1,6 +1,8 @@
 #include <stdio.h>
-#include <math.h>
+#include<math.h>
+#include<string.h>
 
+ main() {
 int main() {
     
     int x, f;
